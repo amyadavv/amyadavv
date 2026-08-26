@@ -4,8 +4,12 @@ on:
   schedule:
     # 11:35 PM IST
     - cron: "5 18 * * *"
-
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "README.md"
 
 jobs:
   update-streak:

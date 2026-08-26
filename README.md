@@ -4,22 +4,14 @@
 
 **Full Stack Software Engineer** with 2+ years of experience building scalable web applications, real-time IoT platforms, and cloud solutions.
 
-<br/>
-
-[![Email](https://img.shields.io/badge/Email-amyadav319%40gmail.com-18181b?style=flat&logo=gmail&logoColor=white)](mailto:amyadav319@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amit_Yadav-18181b?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/amyadavv)
-[![GitHub](https://img.shields.io/badge/GitHub-amyadavv-18181b?style=flat&logo=github&logoColor=white)](https://github.com/amyadavv)
-
 </div>
 
 ---
 
 ### ⚡ Key Highlights
 
-- 💼 **Engineering & System Architecture:**
-  - Built an enterprise workforce and task management platform supporting 500+ users across onboarding, resource planning, and operational workflows.
-  - Currently engineering an **MQTT Cloud SaaS platform** enabling users to connect, manage, and monitor multiple MQTT devices on a unified interface (EMQX, authentication, RBAC, and real-time APIs).
-- 📘 **Currently Learning:** **TypeScript** — leveling up strict type safety across full-stack applications & modern architectures.
+- 💼 Built an enterprise workforce and task management platform supporting 500+ users across onboarding, resource planning, and operational workflows.
+- 🌐 Currently engineering an **MQTT Cloud SaaS platform** enabling users to connect, manage, and monitor multiple MQTT devices on a unified interface (EMQX, authentication, RBAC, and real-time APIs).
 - 🤖 **Featured Project:** **AI Insurance Policy Simplifier & Claims Appeal Co-Pilot** — AI document processing pipeline built with MERN, Google Gemini API, and Cloudflare.
 - ☁️ **DevOps & Cloud:** Automated CI/CD pipelines with **GitHub Actions**, centralized secrets using **Azure Key Vault**, and production monitoring with **Application Insights**.
 

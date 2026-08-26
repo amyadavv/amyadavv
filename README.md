@@ -16,11 +16,3 @@
 -  **DevOps & Cloud:** Automated CI/CD pipelines with **GitHub Actions**, centralized secrets using **Azure Key Vault**, and production monitoring with **Application Insights**.
 
 ---
-
-### 🔥 GitHub Streak
-
-<!-- STREAK_START -->
-  **Current Streak:** 12 days 🔥
-
- **Highest Streak:** 12 days 🏆
-<!-- STREAK_END -->

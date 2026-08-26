@@ -15,4 +15,16 @@
 -  **Featured Project:** **AI Insurance Policy Simplifier & Claims Appeal Co-Pilot** — AI document processing pipeline built with MERN, Google Gemini API, and Cloudflare.
 -  **DevOps & Cloud:** Automated CI/CD pipelines with **GitHub Actions**, centralized secrets using **Azure Key Vault**, and production monitoring with **Application Insights**.
 
+<<<<<<< HEAD
 ---
+=======
+---
+
+### 🔥 GitHub Streak
+
+<!-- STREAK_START -->
+🔥 **Current Streak:** 12 days
+
+🏆 **Highest Streak:** 12 days
+<!-- STREAK_END -->
+>>>>>>> 78b8ddd4432f1e7e661abb84b04c21bd8cf7bcea

@@ -3,9 +3,9 @@
 ## 🔥 GitHub Streak
 
 <!-- STREAK_START -->
-🔥 **Current Streak:** Calculating...
+🔥 **Current Streak:** 12 days
 
-🏆 **Highest Streak:** Calculating...
+🏆 **Highest Streak:** 12 days
 <!-- STREAK_END -->
 
 ## 💻 About Me

@@ -20,7 +20,7 @@
 ### 🔥 GitHub Streak
 
 <!-- STREAK_START -->
-  **Current Streak:** 12 days 🔥
+🔥 **Current Streak:** 12 days
 
- **Highest Streak:** 12 days 🏆
+🏆 **Highest Streak:** 12 days
 <!-- STREAK_END -->

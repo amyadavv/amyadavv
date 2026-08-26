@@ -14,5 +14,3 @@
 -  Currently engineering an **MQTT Cloud SaaS platform** enabling users to connect, manage, and monitor multiple MQTT devices on a unified interface (EMQX, authentication, RBAC, and real-time APIs).
 -  **Featured Project:** **AI Insurance Policy Simplifier & Claims Appeal Co-Pilot** — AI document processing pipeline built with MERN, Google Gemini API, and Cloudflare.
 -  **DevOps & Cloud:** Automated CI/CD pipelines with **GitHub Actions**, centralized secrets using **Azure Key Vault**, and production monitoring with **Application Insights**.
-
----

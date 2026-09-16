@@ -2,7 +2,7 @@
 
 # Hi, I'm Amit Yadav 👋
 
-**Full Stack Software Engineer** with 2.7 + years of experience building scalable web applications, real-time IoT platforms, and cloud solutions.
+**Full Stack Software Engineer** with 2.7+ years of experience building scalable web applications, real-time IoT platforms, and cloud solutions.
 
 </div>
 
